@@ -1,0 +1,9 @@
+// Created by Colton Aubrey Hooke - seshormerow
+
+package zone.sesh.huskycratesconfigmaker;
+
+public class ConfigCreator {
+    private String filename;
+    private String crate;
+    private String
+}
