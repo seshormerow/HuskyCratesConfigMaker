@@ -1,6 +1,6 @@
 <img src="http://i.imgur.com/kOoneaB.png">
 
-# The new simple solution to creating HuskyCrates config files!
+# The new simple solution to creating [HuskyCrates](https://github.com/codeHusky/HuskyCrates-Sponge) config files!
 
 This is just in the conceptual stages right now. Check back later for more updates.
 
